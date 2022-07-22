@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/phone-directory/static/css/main.907d027f.css",
+    "main.js": "/phone-directory/static/js/main.4433bd82.js",
+    "static/js/787.5f10afb4.chunk.js": "/phone-directory/static/js/787.5f10afb4.chunk.js",
+    "static/media/image3.png": "/phone-directory/static/media/image3.536f91ef28341b092369.png",
+    "static/media/main_logo.png": "/phone-directory/static/media/main_logo.291253227e4d71dec0c2.png",
+    "static/media/Database_image.png": "/phone-directory/static/media/Database_image.cc079b12b2d42a1367a4.png",
+    "static/media/addContact_image.png": "/phone-directory/static/media/addContact_image.47044b7ebb13a364d787.png",
+    "index.html": "/phone-directory/index.html",
+    "main.907d027f.css.map": "/phone-directory/static/css/main.907d027f.css.map",
+    "main.4433bd82.js.map": "/phone-directory/static/js/main.4433bd82.js.map",
+    "787.5f10afb4.chunk.js.map": "/phone-directory/static/js/787.5f10afb4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.907d027f.css",
+    "static/js/main.4433bd82.js"
+  ]
+}
